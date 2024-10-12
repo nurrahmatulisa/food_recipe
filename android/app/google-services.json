@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "378126890521",
+    "project_id": "receipe-42d42",
+    "storage_bucket": "receipe-42d42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378126890521:android:f5ca69efd1ee85d6e01c88",
+        "android_client_info": {
+          "package_name": "com.example.bismillah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "378126890521-gqj20kn3i8kotc3vs1dqg1redtv07t72.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGDJYnvniqFQQxB9xFJ9Jusj4drg7duwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "378126890521-gqj20kn3i8kotc3vs1dqg1redtv07t72.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
